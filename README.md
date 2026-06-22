@@ -156,6 +156,3 @@ ai-email-assistant/
 └── README.md
 ```
 
-## License
-
-MIT
